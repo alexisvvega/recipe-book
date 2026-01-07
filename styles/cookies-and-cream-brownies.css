@@ -23,16 +23,3 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
-#edit-btn {
-  margin: 20px;
-  padding: 8px 16px;
-  background-color: #6c63ff;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-#edit-btn:hover {
-  background-color: #5750d7;
-}
