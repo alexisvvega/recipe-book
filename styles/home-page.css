@@ -3,24 +3,35 @@
 }
 
 h1 {
-  color: red;
+  color: #3d0404;
+  text-align: center;
 }
+
 p {
-  color: blue;
-  background-color: #f0f0f0;
+  color: #cd811f;
+  text-align: center;
 }
+
+img{
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+  height: auto;
+}
+
 nav {
-  background-color: #eee;
+  background-color: #ecc39d;
   padding: 10px;
   border-radius: 5px;
-  text-align: center;
+  text-align: right;
   margin-bottom: 20px;
 }
 
 nav a {
   margin: 0 10px;
   text-decoration: none;
-  color: #333;
+  color: #550000;
+  text-decoration: underline;
 }
 
 nav a:hover {
